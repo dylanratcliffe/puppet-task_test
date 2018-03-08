@@ -1,0 +1,10 @@
+{
+  "description": "Is a test",
+  "input_method": "environment",
+  "parameters": {
+    "bar": {
+      "description": "Garbage",
+      "type": "Enum[nodashes, one-dash]"
+    }
+  }
+}
