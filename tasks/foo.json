@@ -4,7 +4,7 @@
   "parameters": {
     "bar": {
       "description": "Garbage",
-      "type": "Enum['nodashes', 'one-dash']"
+      "type": "Enum['nodashes', 'onedash']"
     }
   }
 }
